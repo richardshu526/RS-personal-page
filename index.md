@@ -16,6 +16,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+**This is Richard Shu's personal page**
+_Welcome_
 
 [Link](url) and ![Image](src)
 ```
